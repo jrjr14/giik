@@ -49,7 +49,7 @@ Feel free to explore the repository to see how I’m learning about structuring 
 
 ### Get in Touch 👨‍💻
 I’m always open to learning more, collaborating, and connecting:
-- **Email:** [jrjr14@domain.com](mailto:jrjr14@domain.com)
+- **Email:** [littlekrima@gmail.com](mailto:littlekrima@gmail.com)
 - **GitHub Discussions:** Feel free to leave any comments or suggestions here on GitHub!
 
 ### Fun Facts About Me 👊
