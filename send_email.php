@@ -9,11 +9,7 @@ use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/autoload.php';
 
-// Koneksi ke database
-$servername = "srv1367.hstgr.io";
-$username = "u102034059_giik";
-$password = "123@qweasDD";
-$dbname = "u102034059_giikshv";
+
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
